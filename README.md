@@ -1,9 +1,9 @@
-# Finding-Lanes-Lines
-Classify Traffic signs using a Convolutional Neural Network. 
+# Traffic sign classifier
+Classify Traffic signs using a Convolutional Neural Network (a slightly modified LeNet architecture). 
 We will train a model to classify traffic signs from the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). 
 
 What is interesting here is that the training data are initially insufficient and we augment the whole database using different technics.
-For more details check the source [code](https://github.com/sbatururimi/Finding-Lanes-Lines/blob/master/Finding%20Lane%20Lines%20on%20the%20Road.ipynb)
+For more details check the source [code](https://github.com/sbatururimi/Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.ipynb)
 
 To create an Anaconda environment on Ubuntu, run the following command in the terminal from the root folder of the project:
 ```
